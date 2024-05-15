@@ -1,6 +1,6 @@
 package tests;
 
-public class TesCase07 {
+public class TestCase07 {
 
   //this is work from james
 
